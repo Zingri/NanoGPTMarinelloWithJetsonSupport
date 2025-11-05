@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+openai-whisper
+gTTS
+pygame
+gradio
+psutil
+tokenizers
+ftfy
+pandas
+flask
+sqlite3
+transformers
