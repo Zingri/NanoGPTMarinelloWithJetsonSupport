@@ -111,10 +111,8 @@ Il programma è stato sviluppato dal codice che si trova nella repository:
 
 https://github.com/FrannPizz/NanoGPT-Marinello
 
-Della tesi:
+Tesi di riferimento:
 
-Francesco Pizzato (2025)
-
-CONVERSING WITH ROBOTS: BUILDING LLM ASSISTANTS TO UNDERSTAND AND UTILIZE AUTONOMOUS SYSTEMS
-
+-Francesco Pizzato (2025).
+CONVERSING WITH ROBOTS: BUILDING LLM ASSISTANTS TO UNDERSTAND AND UTILIZE AUTONOMOUS SYSTEMS.
 Bachelor’s thesis, Università degli Studi di Padova.
