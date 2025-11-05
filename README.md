@@ -108,8 +108,13 @@ Assistenti LLM per l’Interazione con i Sistemi Autonomi ​
 Università degli studi di Padova
 
 Il programma è stato sviluppato dal codice che si trova nella repository:
+
 https://github.com/FrannPizz/NanoGPT-Marinello
+
 Della tesi:
+
 Francesco Pizzato (2025)
+
 CONVERSING WITH ROBOTS: BUILDING LLM ASSISTANTS TO UNDERSTAND AND UTILIZE AUTONOMOUS SYSTEMS
+
 Bachelor’s thesis, Università degli Studi di Padova.
