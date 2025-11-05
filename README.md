@@ -97,7 +97,7 @@ Avvia il server LLM:
 ```bash
 python LlmServer.py
 ```
-Server attivo su `0.0.0.0:5000` (di default).
+Ricordarsi di modificare il file e inserire in NOTEBOOK_API_URL l'ip del pc principale.
 
 Endpoint principali:
 
