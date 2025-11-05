@@ -102,7 +102,7 @@ Debug comune
 
 Note finali: 
 
-Il seguente progetto è collegato alla tesi:
+Il seguente progetto è stato sviluppato assieme alla tesi:
 Matteo Zingrillara(2025)
 Assistenti LLM per l’Interazione con i Sistemi Autonomi ​
 Università degli studi di Padova
